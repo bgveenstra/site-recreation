@@ -2,7 +2,7 @@
 Campus: SF
 -->
 
-# CSS Positioning Lab
+# Site Recreation Training
 
 ## Introduction
 
